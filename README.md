@@ -1,12 +1,9 @@
-# Entrega intermedia del Proyecto Final
+# Entrega intermedia 
 
 
-* Alumno: John Smith
+cano joaquin
 
-Este proyecto....
-
-
-Las rutas son
+ rutas 
 
 `/busqueda`
 `/busqueda-2`
